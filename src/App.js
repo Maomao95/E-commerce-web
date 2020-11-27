@@ -3,7 +3,7 @@ import data from './data.js'
 
 function App() {
   return (
-      <div className="grid-containe">
+      <div className="grid-container">
         <header className="row">
           <div>
             <a className="brand" href="/">Amazon</a>
